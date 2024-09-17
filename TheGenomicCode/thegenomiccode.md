@@ -278,7 +278,7 @@ With respect to the form of the organism, these variables are “latent” becau
 
 # Self-Organisation
 
-- While the genome provides a set of constraints, it does not encode all the physical parameters and self-organizing dynamics required for development. These processes, such as protein folding, cytoskeleton dynamics, adhesive forces, and membrane tension, are guided by the laws of physics
+- While the genome provides a set of constraints, it does not encode all the physical parameters and self-organizing dynamics required for development.
 - The genome only needs to encode constraints that channel these processes along specific trajectories
 
 ![bg right height:85%](./media/ProteinFolding.png)
@@ -324,23 +324,12 @@ With respect to the form of the organism, these variables are “latent” becau
 
 # Energy Landscapes
 
-Waddington's epigenetic landscape is a foundational concept in developmental biology
-
+- Waddington's epigenetic landscape is a foundational concept in developmental biology
 - He represented cells as balls traversing this landscape during development.
-  - The landscape itself, with its valleys and ridges, is shaped by the collective influence of the genome, influencing which cell fates are more likely
-
----
-
-# Energy Landscapes
-
-<style scoped>
-  img {
-    border-radius: 50px;
-  }
-</style>
+- The landscape itself, with its valleys and ridges, is shaped by the collective influence of the genome, influencing which cell fates are more likely
 
 <!-- NOTE: Setting a background image of a particular width and height -->
-![w:800 h:500 opacity:1.0](media/EnergyLandscape.png)
+![bg right:45% width:90%](media/EnergyLandscape.png)
 
 ---
 
@@ -349,6 +338,8 @@ Waddington's epigenetic landscape is a foundational concept in developmental bio
 - Evolution functions as a learning algorithm, similar to those used in machine learning.
 - Natural selection plays a crucial role in shaping this generative model over time. Variations arise in the genome, leading to phenotypic differences among organisms.
 - Those with traits better suited to the environment have higher reproductive success, increasing the frequency of their genes in the next generation
+
+![bg right:45% width:90%](./media/peppermoth.jpg)
 
 ---
 
@@ -375,13 +366,15 @@ Waddington's epigenetic landscape is a foundational concept in developmental bio
 # Emergent modularity, Disentangled representations
 
 <style scoped>
+  h1 {
+    font-size: 24px;
+  }
   img {
     border-radius: 50px;
   }
 </style>
 
-<!-- NOTE: Setting a background image of a particular width and height -->
-![w:600 h:400 opacity:1.0](media/Modularity.png)
+![w:800 h:540 opacity:1.0](media/Modularity.png)
 
 ---
 
